@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="SentinelX Concept Map" id="0">
+    <mxGraphModel dx="1212" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="center" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#666666;" value="SentinelX Cloud Threat Intelligence Using NLP and Serverless Risk Scoring" vertex="1">
+          <mxGeometry height="110" width="260" x="420" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="f1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#666666;" value="Cloud Fundamentals • Definition • Characteristics • Benefits • On-demand Access • Measured Service • Elasticity • Scalability" vertex="1">
+          <mxGeometry height="170" width="240" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#666666;" value="Cloud Evolution &amp; Drivers • Hardware Evolution • Internet Evolution • Distributed Systems • Remote Access • Big Data Growth" vertex="1">
+          <mxGeometry height="170" width="240" x="340" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#666666;" value="Architecture &amp; Deployment • Front End • Backend • Network Layer • Data Center • Public/Private • Hybrid Cloud" vertex="1">
+          <mxGeometry height="170" width="240" x="720" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#666666;" value="Service Models • IaaS • PaaS • SaaS • FaaS (Serverless) • Shared Responsibility" vertex="1">
+          <mxGeometry height="170" width="240" x="20" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="f5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#666666;" value="Virtualization • Virtual Machines • Hypervisor • Containers • Resource Pooling • Multi-tenancy" vertex="1">
+          <mxGeometry height="170" width="240" x="720" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="f6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" value="Web Services &amp; APIs • REST API • SOAP • JSON Request • JSON Response • Authentication" vertex="1">
+          <mxGeometry height="170" width="240" x="360" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="f7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f4cccc;strokeColor=#666666;" value="Capstone Connection • Threat Logs • NLP Analysis • Serverless Risk Scoring • Cloud Database • Security Dashboard • Threat Alerts" vertex="1">
+          <mxGeometry height="170" width="240" x="760" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="e0" edge="1" parent="1" source="f1" target="center" value="explains">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="f2" target="center" value="drives">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="f3" target="center" value="hosts">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="f4" target="center" value="provides">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="f5" target="center" value="enables">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="f6" target="center" value="communicates through">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="f7" target="center" value="implements">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
